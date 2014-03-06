@@ -11,7 +11,7 @@ public class JPACadTeste {
 		Cadastro novo = new Cadastro();
 		EntityManager em = JPAUtil.getEntityManager();
 		
-		novo.setNome("Bruno Aquino");
+		novo.setNome("Priscila da Silva Carvalho");
 		novo.setEmail("theodorodeaquino@gmail.com");
 		novo.setCpf("55563562900");
 		
